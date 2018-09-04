@@ -1,16 +1,16 @@
 # site settings
-title: wanghua
-subtitle: happy
+title: MY BLOG
+subtitle: aboutme
 email: wh_happy2014@163.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: www.wanghuaweb.com # the base hostname & protocol for your site
-author: wanghua
+author: Lucas
 street_address: 1234 Somewhere Road
-city: Shanghai
-state: CN
-zip_code: 20000
-country: China
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
 phone: (716) 555-5555
 
 # homepage tiles
