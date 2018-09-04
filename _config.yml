@@ -3,7 +3,7 @@ title: wanghua
 subtitle: happy
 email: wh_happy2014@163.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: www.wanghuaweb.com # the base hostname & protocol for your site
 author: wanghua
 street_address: 1234 Somewhere Road
